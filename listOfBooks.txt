@@ -1,0 +1,13 @@
+maths
+physics
+gui
+chemistry
+computer
+english
+science
+python
+geometry
+photon
+ui
+hindi
+c
